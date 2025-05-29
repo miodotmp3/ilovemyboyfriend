@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ilovemyboyfriend/static/css/main.e0614287.css",
-    "main.js": "/ilovemyboyfriend/static/js/main.450809af.js",
+    "main.js": "/ilovemyboyfriend/static/js/main.fbf5e036.js",
     "static/js/453.1983e468.chunk.js": "/ilovemyboyfriend/static/js/453.1983e468.chunk.js",
     "index.html": "/ilovemyboyfriend/index.html",
     "main.e0614287.css.map": "/ilovemyboyfriend/static/css/main.e0614287.css.map",
-    "main.450809af.js.map": "/ilovemyboyfriend/static/js/main.450809af.js.map",
+    "main.fbf5e036.js.map": "/ilovemyboyfriend/static/js/main.fbf5e036.js.map",
     "453.1983e468.chunk.js.map": "/ilovemyboyfriend/static/js/453.1983e468.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0614287.css",
-    "static/js/main.450809af.js"
+    "static/js/main.fbf5e036.js"
   ]
 }
